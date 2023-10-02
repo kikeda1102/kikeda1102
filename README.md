@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenya Ikeda / 池田賢矢</h1>
-<h3 align="center">working on Web application, ML, Audio Programming</h3>
+<h3 align="center">I'm working on Web application development, ML, and Audio Programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

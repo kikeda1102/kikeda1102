@@ -1,4 +1,4 @@
-## Hi 👋, I'm Kenya Ikeda / 池田 賢矢.
+# Hi 👋, I'm Kenya Ikeda / 池田 賢矢.
 
 I'm working on Web/moblie application development, ML, and Audio programming.
 

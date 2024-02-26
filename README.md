@@ -2,4 +2,4 @@
 
 I'm working on Web/mobile application development, ML, and Audio programming.
 
-Languages and tools: Next.js, Flutter, Python, JUCE/C++, etc.
+Languages and tools: Next.js, TypeScript, React, Flutter, Python, JUCE/C++, etc.

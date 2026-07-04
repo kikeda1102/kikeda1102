@@ -2,4 +2,4 @@
 
 I'm an engineer working across web, mobile, and native application development.
 
-Languages and tools: Next.js, TypeScript, React, React Native, Flutter, Python, Electron, etc.
+Tech stack: Next.js, TypeScript, React, React Native, Flutter, Python, Electron, etc.
